@@ -113,7 +113,7 @@ public class WhileDrills
    *
    *   Examples:
    *    removeLetter("BANANA", "N") -> "BAAA"
-   *    removeLetter("BANANA", "B") -> "BNN"
+   *    removeLetter("BANANA", "A") -> "BNN"
    *    removeLetterremoveLetter("COMPUTER SCIENCE!", "E") -> "COMPUTR SCINC!"
    *
    *   @param String str The target string
